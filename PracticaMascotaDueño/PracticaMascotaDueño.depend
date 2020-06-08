@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1589254494 source:c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota_dueño.h"
+
+1589254267 source:c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\dueño.c
+	"dueño.h"
+
+1589249232 c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\dueño.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589254267 source:c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\mascota_dueño.c
+	"mascota_dueño.h"
+
+1589249419 c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\mascota_dueño.h
+	"mascota.h"
+	"dueño.h"
+
+1589254267 c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1589254444 source:c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\mascota.c
+	"mascota.h"
+
+1589254267 source:c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\harryio.c
+	<stdio.h>
+	<string.h>
+	"harryio.h"
+
+1589152484 c:\users\harry\desktop\utn\utn cursada\1er cuatrimestre\laboratorio1-programacion1\misrepos\c\ejercicios\practicamascotadueño\harryio.h
+
+1591021483 source:c:\users\esteb\desktop\practicamascotadueño\dueño.c
+	"dueño.h"
+	"harryio.h"
+
+1590421185 c:\users\esteb\desktop\practicamascotadueño\dueño.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1589846360 source:c:\users\esteb\desktop\practicamascotadueño\harryio.c
+	<stdio.h>
+	<string.h>
+	"harryio.h"
+
+1589846360 c:\users\esteb\desktop\practicamascotadueño\harryio.h
+
+1591024130 source:c:\users\esteb\desktop\practicamascotadueño\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota_dueño.h"
+	"harryio.h"
+
+1590970779 c:\users\esteb\desktop\practicamascotadueño\mascota_dueño.h
+	"mascota.h"
+	"dueño.h"
+	"raza.h"
+	"harryio.h"
+
+1591024226 c:\users\esteb\desktop\practicamascotadueño\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1590971348 source:c:\users\esteb\desktop\practicamascotadueño\mascota.c
+	"mascota.h"
+
+1590970779 source:c:\users\esteb\desktop\practicamascotadueño\mascota_dueño.c
+	"mascota_dueño.h"
+
+1590879875 c:\users\esteb\desktop\practicamascotadueño\raza.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1590952025 source:c:\users\esteb\desktop\practicamascotadueño\raza.c
+	"raza.h"
+
+1589842354 source:c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\dueño.c
+	"dueño.h"
+	"harryio.h"
+
+1589845183 c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\dueño.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1589152484 c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\harryio.h
+
+1589314789 source:c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\harryio.c
+	<stdio.h>
+	<string.h>
+	"harryio.h"
+
+1589842542 source:c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota_dueño.h"
+	"harryio.h"
+
+1589839040 c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\mascota_dueño.h
+	"mascota.h"
+	"dueño.h"
+	"raza.h"
+	"harryio.h"
+
+1589842324 c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1589842595 c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\raza.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1589844235 source:c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\mascota.c
+	"mascota.h"
+
+1589833123 source:c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\mascota_dueño.c
+	"mascota_dueño.h"
+
+1589842748 source:c:\users\esteb\desktop\nueva carpeta\parcial_1\practicamascotadueño\raza.c
+	"raza.h"
+
+1591022053 source:c:\users\esteb\desktop\practicamascotadueño\mascota_raza.c
+	"mascota_raza.h"
+
+1590971218 c:\users\esteb\desktop\practicamascotadueño\mascota_raza.h
+	"mascota.h"
+	"raza.h"
+	"harryio.h"
+
+1591163913 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\dueño.c
+	"dueño.h"
+	"harryio.h"
+
+1591156357 c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\dueño.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1589846360 c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\harryio.h
+
+1589846360 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\harryio.c
+	<stdio.h>
+	<string.h>
+	"harryio.h"
+
+1590971348 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\mascota.c
+	"mascota.h"
+
+1591024226 c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\mascota.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1591166627 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\mascota_dueño.c
+	"mascota_dueño.h"
+
+1591166173 c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\mascota_dueño.h
+	"mascota.h"
+	"dueño.h"
+	"raza.h"
+	"harryio.h"
+
+1590879875 c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\raza.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"harryio.h"
+
+1591022053 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\mascota_raza.c
+	"mascota_raza.h"
+
+1590971218 c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\mascota_raza.h
+	"mascota.h"
+	"raza.h"
+	"harryio.h"
+
+1590952025 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\raza.c
+	"raza.h"
+
+1591166173 source:c:\users\esteb\desktop\mis repositorios de github\parcial\practicamascotadueño\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mascota_dueño.h"
+	"harryio.h"
+
